@@ -20,6 +20,3 @@
 <p>
 
 [![SpiralBitDev github stats](https://github-readme-stats.vercel.app/api?username=SpiralBitDev&show_icons=true&theme=radical)](https://github.com/spiral-bit/github-readme-stats)
-
-
-### My Projects:
